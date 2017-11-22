@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Dictionary"
+        android:id="@+id/nav_dic"></item>
+
+    <item android:title="Who made this ?"
+        android:id="@+id/nav_dev"></item>
+
+    <item android:title="About"
+        android:id="@+id/nav_about"></item>
+
+</menu>
